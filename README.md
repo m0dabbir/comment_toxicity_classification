@@ -154,13 +154,4 @@ The model is deployed using Gradio. Users can input custom comments and receive 
 MIT License. See `LICENSE` file for details.
 ```
 
----
 
-### ✅ Optional Additions
-
-* **Contributing** guidelines
-* **TODO** list
-* **References or Credits** for dataset/tools
-* `.gitignore`, `requirements.txt`, or `environment.yml` files
-
----
