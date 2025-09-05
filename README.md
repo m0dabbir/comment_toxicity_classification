@@ -1,8 +1,4 @@
-A well-structured `README.md` is crucial for showcasing your project on GitHub. Here's what you can include for your **Toxic Comment Classification (BiLSTM)** project:
 
----
-
-## 📝 **README.md Structure**
 
 ### 1. **Project Title & Description**
 
